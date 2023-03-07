@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ball jamp", "Ball jamp.csproj", "{9907DF92-4351-45CA-A91A-3099AC5D6B3A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Eyes", "..\Eyes\Eyes.csproj", "{51C11C77-C877-4EEC-8B57-133B9ABCFD0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ball jamp gradient", "..\Ball jamp gradient\Ball jamp gradient.csproj", "{971A9D44-D0BA-40F3-B0B5-58DA0A3E76B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EyesBig", "..\EyesBig\EyesBig.csproj", "{B8F98EEE-2AC8-45FB-A87E-CC37E7EEE0E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9907DF92-4351-45CA-A91A-3099AC5D6B3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9907DF92-4351-45CA-A91A-3099AC5D6B3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9907DF92-4351-45CA-A91A-3099AC5D6B3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9907DF92-4351-45CA-A91A-3099AC5D6B3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C11C77-C877-4EEC-8B57-133B9ABCFD0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C11C77-C877-4EEC-8B57-133B9ABCFD0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C11C77-C877-4EEC-8B57-133B9ABCFD0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C11C77-C877-4EEC-8B57-133B9ABCFD0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971A9D44-D0BA-40F3-B0B5-58DA0A3E76B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971A9D44-D0BA-40F3-B0B5-58DA0A3E76B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971A9D44-D0BA-40F3-B0B5-58DA0A3E76B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971A9D44-D0BA-40F3-B0B5-58DA0A3E76B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F98EEE-2AC8-45FB-A87E-CC37E7EEE0E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F98EEE-2AC8-45FB-A87E-CC37E7EEE0E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F98EEE-2AC8-45FB-A87E-CC37E7EEE0E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F98EEE-2AC8-45FB-A87E-CC37E7EEE0E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B81DAE1-F223-4287-93E5-55AB8E6210F1}
+	EndGlobalSection
+EndGlobal
